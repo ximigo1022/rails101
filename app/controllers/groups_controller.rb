@@ -48,7 +48,6 @@ class GroupsController < ApplicationController
   end
 
 
-   private
 
    private
 
